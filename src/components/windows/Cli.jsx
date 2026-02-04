@@ -30,7 +30,7 @@ Currently exploring modern web development practices and best practices.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Frontend:        React, JavaScript, CSS, SCSS, HTML5
 Backend:         Node.js, Express
-Tools:           Git, Vite, Webpack, VS Code
+Tools:           Git, Vite,  VS Code
 Databases:       MongoDB, MySQL
 Other:           REST APIs, Git, Responsive Design
       `,

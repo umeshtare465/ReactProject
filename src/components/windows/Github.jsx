@@ -24,7 +24,7 @@ const GitCard = ({
         ))}
       </div>
       <div className="urls">
-        <a href={data.repolink}>Repodtary</a>
+        <a href={data.repolink}>Repositary</a>
         {data.demoLink && <a href={data.demolink}>Demo Link</a>}{" "}
       </div>
     </div>
